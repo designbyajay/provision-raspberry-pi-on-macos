@@ -1,3 +1,5 @@
+This repository is archived. It has been moved to the [`@incremental.design/dev-boxes`](https://github.com/incremental-design/dev-boxes/tree/ajay-dev/packages/provision-raspberry-pi-on-macos) monorepo.
+
 # Provision Rasbperry Pi on MacOS
 
 Utility for provisioning an image of raspbian, without using a raspberry pi.
